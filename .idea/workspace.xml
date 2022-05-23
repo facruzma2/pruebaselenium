@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2c47ea93-a6b1-4fbb-aee2-2afce008a214" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/runner/browser_manager/ChromeDriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runner/browser_manager/DriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runner/browser_manager/DriverManagerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runner/browser_manager/DriverType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runner/browser_manager/FirefoxDriverManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Quick.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/CapturasPantalla/Configurar impresoras.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/CapturasPantalla/Configurar impresoras.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/cucumber-report/FM_Login.html" beforeDir="false" afterPath="$PROJECT_DIR$/resources/cucumber-report/FM_Login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/cucumber-report/FM_ProfileUsuario.html" beforeDir="false" afterPath="$PROJECT_DIR$/resources/cucumber-report/FM_ProfileUsuario.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fulfillment/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/traking/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/fulfillment/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/traking/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/features/Inbound/Inbound.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/features/InicioSesion/Login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/InicioSesion/Login.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/features/ProfileUsuario/ProfileUsuario.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/features/ScanAndDispath/ScanAndDispath.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/features/ScanAndDispath/ScanAndDispathFallido.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pom/InboundPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pom/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pom/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pom/ProfileUsuarioPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pom/ScanAndDispathPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runner/Inbound_Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runner/ProfileUsuario_Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runner/ScanAndDispath_Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/seleniumgluecode/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seleniumgluecode/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/seleniumgluecode/InboundTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/seleniumgluecode/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seleniumgluecode/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/seleniumgluecode/ProfileUsuarioTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/seleniumgluecode/ScanAndDispathTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/seleniumgluecode/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seleniumgluecode/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/DataFulfillment.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/Fulfillment-QA.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/LICENSE.electron.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/LICENSES.chromium.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/Uninstall Fulfillment-QA.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/VkICD_mock_icd.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/VkLayer_core_validation.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/VkLayer_object_tracker.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/VkLayer_parameter_validation.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/VkLayer_threading.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/VkLayer_unique_objects.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/chrome_100_percent.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/chrome_200_percent.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/d3dcompiler_47.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/ffmpeg.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/icudtl.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/libEGL.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/libGLESv2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/am.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/ar.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/bg.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/bn.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/ca.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/cs.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/da.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/de.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/el.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/en-GB.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/en-US.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/es-419.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/es.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/et.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/fa.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/fi.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/fil.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/fr.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/gu.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/he.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/hi.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/hr.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/hu.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/id.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/it.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/ja.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/kn.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/ko.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/lt.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/lv.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/ml.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/mr.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/ms.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/nb.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/nl.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/pl.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/pt-BR.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/pt-PT.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/ro.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/ru.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/sk.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/sl.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/sr.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/sv.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/sw.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/ta.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/te.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/th.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/tr.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/uk.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/vi.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/zh-CN.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/locales/zh-TW.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/natives_blob.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/osmesa.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/resources.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/resources/app-update.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/resources/app.asar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/resources/app.asar.unpacked/node_modules/clipboardy/fallbacks/linux/xsel" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/resources/app.asar.unpacked/node_modules/clipboardy/fallbacks/windows/clipboard_i686.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/resources/app.asar.unpacked/node_modules/clipboardy/fallbacks/windows/clipboard_x86_64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/resources/app.asar.unpacked/node_modules/clipboardy/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/resources/app.asar.unpacked/node_modules/clipboardy/lib/linux.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/resources/app.asar.unpacked/node_modules/clipboardy/lib/macos.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/resources/app.asar.unpacked/node_modules/clipboardy/lib/termux.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/resources/app.asar.unpacked/node_modules/clipboardy/lib/windows.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/resources/app.asar.unpacked/node_modules/clipboardy/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/resources/app.asar.unpacked/node_modules/clipboardy/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/resources/electron.asar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/resources/elevate.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/snapshot_blob.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/swiftshader/libEGL.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/swiftshader/libGLESv2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Fulfillment-QA/v8_context_snapshot.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/DataFulfillment.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/Fulfillment-QA.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/LICENSE.electron.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/LICENSES.chromium.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/Uninstall Fulfillment-QA.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/VkICD_mock_icd.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/VkLayer_core_validation.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/VkLayer_object_tracker.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/VkLayer_parameter_validation.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/VkLayer_threading.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/VkLayer_unique_objects.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/chrome_100_percent.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/chrome_200_percent.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/d3dcompiler_47.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/ffmpeg.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/icudtl.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/libEGL.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/libGLESv2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/am.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/ar.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/bg.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/bn.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/ca.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/cs.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/da.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/de.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/el.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/en-GB.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/en-US.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/es-419.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/es.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/et.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/fa.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/fi.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/fil.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/fr.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/gu.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/he.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/hi.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/hr.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/hu.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/id.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/it.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/ja.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/kn.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/ko.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/lt.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/lv.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/ml.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/mr.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/ms.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/nb.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/nl.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/pl.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/pt-BR.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/pt-PT.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/ro.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/ru.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/sk.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/sl.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/sr.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/sv.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/sw.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/ta.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/te.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/th.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/tr.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/uk.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/vi.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/zh-CN.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/locales/zh-TW.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/natives_blob.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/osmesa.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/resources.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/resources/app-update.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/resources/app.asar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/resources/app.asar.unpacked/node_modules/clipboardy/fallbacks/linux/xsel" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/resources/app.asar.unpacked/node_modules/clipboardy/fallbacks/windows/clipboard_i686.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/resources/app.asar.unpacked/node_modules/clipboardy/fallbacks/windows/clipboard_x86_64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/resources/app.asar.unpacked/node_modules/clipboardy/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/resources/app.asar.unpacked/node_modules/clipboardy/lib/linux.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/resources/app.asar.unpacked/node_modules/clipboardy/lib/macos.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/resources/app.asar.unpacked/node_modules/clipboardy/lib/termux.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/resources/app.asar.unpacked/node_modules/clipboardy/lib/windows.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/resources/app.asar.unpacked/node_modules/clipboardy/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/resources/app.asar.unpacked/node_modules/clipboardy/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/resources/electron.asar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/resources/elevate.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/snapshot_blob.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/swiftshader/libEGL.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/swiftshader/libGLESv2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fulfillment-QA/v8_context_snapshot.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/imagenPrueba.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/~$DataFormUltimaMila.xlsx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/test/java/features/InicioSesion/Login.feature" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="23xXTLFR9M5roqEN72dmDKsE1xk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Quick\IdeaProjects\traking-automation\src\test\java\runner" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Login_Runner (2)">
+    <configuration name="Inbound_Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fulfillment-automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.Inbound_Runner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login_Runner (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="traking-automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.Login_Runner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login_Runner (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PROYECTO_BASE_POM_SELENIUM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.Login_Runner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProfileUsuario_Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fulfillment-automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.ProfileUsuario_Runner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScanAndDispath_Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fulfillment-automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.ScanAndDispath_Runner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Login_Runner (2)" />
+        <item itemvalue="JUnit.Login_Runner (1)" />
+        <item itemvalue="JUnit.ProfileUsuario_Runner" />
+        <item itemvalue="JUnit.ScanAndDispath_Runner" />
+        <item itemvalue="JUnit.Inbound_Runner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c47ea93-a6b1-4fbb-aee2-2afce008a214" name="Changes" comment="" />
+      <created>1642676725654</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642676725654</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
